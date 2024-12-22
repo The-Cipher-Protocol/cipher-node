@@ -1,0 +1,12 @@
+node
+go-ibft
+neth
+neth.exe
+data
+gen.json
+genesis.json
+blockscout
+node
+node_modules
+testnet
+NLG-ibft
